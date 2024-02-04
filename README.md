@@ -1,2 +1,1 @@
-
 Aplikasi web ini telah dirancang dengan keamanan dan perlindungan data pribadi sebagai fokus utama. Dalam konteks undang-undang perlindungan data, aplikasi ini mengimplementasikan langkah-langkah yang mencakup pengelolaan akses terotentikasi, penggunaan enkripsi pada gambar dan ID sebelum disimpan di database. Melalui langkah-langkah ini, aplikasi memastikan bahwa data pribadi pengguna, terutama yang terkait dengan gambar yang diunggah, diolah secara aman dan sesuai dengan prinsip-prinsip perlindungan data yang berlaku.
